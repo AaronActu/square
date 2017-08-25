@@ -1,6 +1,4 @@
 # Square []
-### *Square*'s goal is to draw a square or rectangle with the carac and the height/lenght of your choice !
+### *Square*'s goal is to draw a square or rectangle with the char and the height/lenght of your choice !
 
-##### This will be avaible in Version 1.0.
-
-###### Actually Version : 0.8.
+###### Actually Version : 1.0.
