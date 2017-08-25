@@ -1,6 +1,7 @@
 <?php
 
-  const $version = 0.8;
+  const $version = 1.0;
+  const $char = "*" //Change the charactere you want to draw.
 
   // On simplifie
   $hauteur = 5;
@@ -17,7 +18,7 @@
           for ($increment=0; $increment < $hauteur; $increment++)
           {
                   for ($increment2=0; $increment2 < $largeur ; $increment2++)
-                  echo "*";
+                  echo $char;
                   echo "<br/>";
           }
   }
