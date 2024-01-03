@@ -1,23 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T17:02:00.525Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="z7Y_T9G4wScJhbcWDLZC" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T22:38:56.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0" etag="Th9H2DFDJ9X40DfwbkMu" version="22.1.16" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
-    <mxGraphModel dx="1026" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wqWezYR65BFVsAlvhWQY-183" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="20" width="200" height="480" as="geometry" />
+          <mxGeometry x="20" y="20" width="220" height="510" as="geometry" />
         </mxCell>
         <mxCell id="wqWezYR65BFVsAlvhWQY-181" value="" style="group" vertex="1" connectable="0" parent="wqWezYR65BFVsAlvhWQY-183">
-          <mxGeometry width="200" height="480" as="geometry" />
+          <mxGeometry width="220" height="510" as="geometry" />
         </mxCell>
         <mxCell id="wqWezYR65BFVsAlvhWQY-173" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
-          <mxGeometry width="200" height="480" as="geometry" />
+          <mxGeometry width="200" height="510" as="geometry" />
         </mxCell>
         <mxCell id="wqWezYR65BFVsAlvhWQY-174" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Tahoma&quot;&gt;MOBILE APPLICATION&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
           <mxGeometry x="70" y="16.551724137931036" width="60" height="24.82758620689655" as="geometry" />
         </mxCell>
         <mxCell id="wqWezYR65BFVsAlvhWQY-177" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
           <mxGeometry x="50" y="280" width="110" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-185" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=#1B1C1C;strokeColor=none" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
+          <mxGeometry x="84.53" y="320" width="40.94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-188" value="&lt;div&gt;Techstack: React Native / Typescript&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
+          <mxGeometry x="-10" y="440" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-207" value="&lt;div&gt;Role: PWA implementation via a web view and permissions mechanisms&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
+          <mxGeometry x="-10" y="460" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-209" value="iOS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
+          <mxGeometry x="140" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-208" value="Android" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wqWezYR65BFVsAlvhWQY-181">
+          <mxGeometry x="140" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wqWezYR65BFVsAlvhWQY-180" value="" style="group" vertex="1" connectable="0" parent="wqWezYR65BFVsAlvhWQY-183">
           <mxGeometry x="61.53999999999999" y="90" width="76.91999999999999" height="150" as="geometry" />
@@ -27,6 +42,35 @@
         </mxCell>
         <mxCell id="wqWezYR65BFVsAlvhWQY-179" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_Android-128.png" vertex="1" parent="wqWezYR65BFVsAlvhWQY-180">
           <mxGeometry x="3.960000000000008" y="40.5" width="69" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;shape=flexArrow;" edge="1" parent="1" source="wqWezYR65BFVsAlvhWQY-224" target="wqWezYR65BFVsAlvhWQY-225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-224" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="240" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-225" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;fillColor=#E7BDCE;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="660" y="20" width="290" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-226" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="290" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;endArrow=block;endFill=0;startArrow=block;startFill=0;shape=flexArrow;" edge="1" parent="1" source="wqWezYR65BFVsAlvhWQY-173" target="wqWezYR65BFVsAlvhWQY-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-228" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="193" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-229" value="PWA Frontend&lt;br&gt;Platform Service" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.frontend_platform_services;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="wqWezYR65BFVsAlvhWQY-228">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-231" value="&lt;div&gt;Techstack: React JS / Typescript / Recoil / React Query&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="295" y="310" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wqWezYR65BFVsAlvhWQY-235" value="&lt;div&gt;Role: Main application, a white brand skeleton customised based on requeste FQDN&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="295" y="340" width="260" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
